@@ -22,7 +22,7 @@ export const Addtodo = (props) => {
     } 
     return (
         <div className="container">
-            <h3 className="text-center my-3">Add Todo</h3>
+            <h3 className="text-center my-3 h1">Todo App by Kaustubh Pathak</h3>
             <form onSubmit={Submit}>
                 <div className="mb-3">
                     <label htmlFor="title" className="form-label">Title</label>

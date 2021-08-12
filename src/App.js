@@ -44,7 +44,7 @@ function App()
     if(todos.length===0)
     {
       
-      sno=0;
+      sno=1;
     }
     else
     {

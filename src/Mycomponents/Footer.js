@@ -7,7 +7,7 @@ export const Footer = () => {
         top:"100vh"
     }
     return (
-        <div className="bg-dark text-light text-center py-3 my-3" style={Style}>
+        <div className="bg-info text-dark text-center py-3 my-3" style={Style}>
 
             <p>Develpoed and Designed by Kaustubh Pathak &copy;</p>
             
